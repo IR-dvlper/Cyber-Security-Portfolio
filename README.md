@@ -1,1 +1,2 @@
-# Building-a-Cyber-Security-Home-Lab
+# Introduction 
+Hello, my name is Inayat and I am a BSc university student studying Cyber Security. This repository serves as a portfolio for cyber security projects, where I explore the different areas of Cyber Security which interests me. I aim to establish and develop my technical skills in understanding and using tools and computational knowledge, whilst also developing my professional skills in problem solving, attention to detail and communication. The areas of Cyber Security I am interested in are ethical hacking, GRC and blue teaming.
